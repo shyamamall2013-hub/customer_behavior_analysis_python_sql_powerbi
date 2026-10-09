@@ -14,7 +14,7 @@ A leading retail company wants to better understand its customers’ shopping be
 -	Purchase details (Item Purchased, Category, Purchase Amount, Season, Size, Color) 
 -	Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases, Frequency of 
   Purchases, Review Rating, Shipping Type)
- Dataset link: [Add Dataset Link Here]
+Dataset link: [Add Dataset Link Here]
 
 🛠️ Tools and Technologies
 
