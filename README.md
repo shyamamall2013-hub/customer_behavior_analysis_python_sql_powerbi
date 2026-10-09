@@ -1,9 +1,11 @@
 # Customer Behavior Analysis
 
 📌 Overview
+
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions
 
 🎯 Business Problem
+
 A leading retail company wants to better understand its customers’ shopping behavior in order to improve sales, customer satisfaction, and long-term loyalty. The management is particularly interested in uncovering which factors, such as discounts, reviews, seasons, or payment preferences, drive consumer decisions and repeat purchases. 
 
 📂 Dataset
@@ -53,6 +55,10 @@ Power BI: Interactive dashboard development.
 - Developed relevant KPIs and visualizations.
 
 - Created an interactive dashboard to explore customer behavior and business performance.
+  
+- [Add Dashboard Screenshot Here]
+
+- Power BI Dashboard: [Add Dashboard File or Link Here]
 
 6. Report Preparation
 
@@ -61,16 +67,6 @@ Power BI: Interactive dashboard development.
 - Documented important trends and business insights.
 
 - Presented actionable recommendations based on the results.
-
-📈 Dashboard
-
-The Power BI dashboard provides a visual overview of customer behavior, purchasing patterns, and business performance.
-
-Dashboard Screenshot:
-
-[Add Dashboard Screenshot Here]
-
-Power BI Dashboard: [Add Dashboard File or Link Here]
 
 🔍 Key Insights
 
@@ -82,6 +78,7 @@ Power BI Dashboard: [Add Dashboard File or Link Here]
 - Checked whether customers with >5 purchases are more likely to subscribe.       
 
 💡 Business Recommendations
+
 - Boost Subscriptions – Promote exclusive benefits for subscribers. 
  
 - Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” segment. 
@@ -120,23 +117,21 @@ Note: Update the folder and file names to match your actual GitHub repository.
 
 🚀 How to Run
 
-Clone or download this repository.
+1. Clone or download this repository.
 
-Install Python and the required libraries:
+2. Install Python and the required libraries: pandas 
 
-pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
+3. Open the Jupyter Notebook and run the data cleaning and EDA steps.
 
-Open the Jupyter Notebook and run the data cleaning and EDA steps.
+4. Set up MySQL and create the required database and table.
 
-Set up MySQL and create the required database and table.
+5. Import the cleaned dataset into MySQL and execute the SQL queries.
 
-Import the cleaned dataset into MySQL and execute the SQL queries.
+6. Open the Power BI .pbix file in Power BI Desktop.
 
-Open the Power BI .pbix file in Power BI Desktop.
+7. Refresh the data connections if required and explore the dashboard.
 
-Refresh the data connections if required and explore the dashboard.
-
-Review the project report for key findings and recommendations.
+8. Review the project report for key findings and recommendations.
 
 Prerequisites: Python, Jupyter Notebook, MySQL, and Power BI Desktop.
 
