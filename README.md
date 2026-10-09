@@ -56,7 +56,7 @@ Power BI: Interactive dashboard development.
 
 - Created an interactive dashboard to explore customer behavior and business performance.
   
- [Add Dashboard Screenshot Here]
+ [https://github.com/shyamamall2013-hub/customer_behavior_analysis_python_sql_powerbi/blob/main/customer_behavior_dashboard.png]
 
  Power BI Dashboard: [Add Dashboard File or Link Here]
 
