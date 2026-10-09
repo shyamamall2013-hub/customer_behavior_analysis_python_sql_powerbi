@@ -58,7 +58,7 @@ Power BI: Interactive dashboard development.
   
  [https://github.com/shyamamall2013-hub/customer_behavior_analysis_python_sql_powerbi/blob/main/customer_behavior_dashboard.png]
 
- Power BI Dashboard: [Add Dashboard File or Link Here]
+ Power BI Dashboard: [https://github.com/shyamamall2013-hub/customer_behavior_analysis_python_sql_powerbi/blob/main/customer_behavior_analysis_dashboard.pbix]
 
 6. Report Preparation
 
