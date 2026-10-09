@@ -14,7 +14,7 @@ A leading retail company wants to better understand its customers’ shopping be
 -	Purchase details (Item Purchased, Category, Purchase Amount, Season, Size, Color) 
 -	Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases, Frequency of 
   Purchases, Review Rating, Shipping Type)
-Dataset link: [Add Dataset Link Here]
+Dataset link: [https://github.com/shyamamall2013-hub/customer_behavior_analysis_python_sql_powerbi/blob/main/customer_shopping_behavior_data.csv]
 
 🛠️ Tools and Technologies
 
