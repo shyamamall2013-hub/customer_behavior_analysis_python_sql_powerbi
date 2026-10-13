@@ -139,3 +139,4 @@ Prerequisites: Python, Jupyter Notebook, MySQL, and Power BI Desktop.
 👤 Author
 
 Shyama Mall
+Linkedin: www.linkedin.com/in/contactshyamamall
